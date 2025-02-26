@@ -1,2 +1,1 @@
-git add .gitattributes
-git commit -m "Fix .gitattributes syntax"
+*text=auto
